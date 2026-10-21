@@ -3,7 +3,7 @@
 Deadline: 28.10.2025 23:59 
 
 ## Step 1
-Clone this repository to your local computer. On the command line, you would use the following command: `git clone https://github.com/Deep-Learning-UE-WS2526/exercise-02`.
+Clone this repository to your local computer. On the command line, you would use the following command: `git clone https://github.com/Deep-Learning-UE-WS2627/exercise-02`.
 
 ## Step 2
 Create a new branch in the repository, named after your UzK-account: `git checkout -b "UZKACCOUNT"`
