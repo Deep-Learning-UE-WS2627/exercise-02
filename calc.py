@@ -13,6 +13,6 @@ while True:
     else:
         print("Only '+', '*', 'add', 'multi', 'addition' and 'multiplication' are valid inputs.")
 
-    answer = input("Do you want to try again? (yes/no): ").strip().lower()
+    answer = input("Do you want to try again? Enter yes to continue: ").strip().lower()
     if answer not in ("y", "yes", "j", "ja"):
         break
