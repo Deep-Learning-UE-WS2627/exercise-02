@@ -1,6 +1,6 @@
 # Exercise 2: Getting Started With Git And Python
 
-Deadline: 28.10.2025 23:59 
+Deadline: 28.10.2026 23:59 
 
 ## Step 1
 Clone this repository to your local computer. On the command line, you would use the following command: `git clone https://github.com/Deep-Learning-UE-WS2627/exercise-02`.
