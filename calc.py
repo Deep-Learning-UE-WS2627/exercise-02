@@ -19,4 +19,3 @@ while True:
 
     if answer != "yes":
         break
-    break
