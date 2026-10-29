@@ -11,3 +11,9 @@ while True:
         print("Sum: " + str(num1+num2))
     elif (operator == "multi") or (operator == "multiplication"):
         print("Product: " + str(num1*num2))
+
+    print("Continue (Y/N)? ")
+    cont = input()
+    if cont == "N" or cont == "n":
+        break
+        
